@@ -1,3 +1,5 @@
+//Copyright@2014 KenLee All rights reversed
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
